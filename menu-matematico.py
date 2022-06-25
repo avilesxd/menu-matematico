@@ -388,7 +388,7 @@ while opcion:
                 print("\n")
                 for i in range(ejercicios):
                     respuestas = {}
-                    reto = {}
+                    resto = {}
                     dividendo = random.randint(1, 11)
                     divisor = random.randint(1, 11)
                     print("Dividir", dividendo, "/", divisor)
@@ -422,7 +422,7 @@ while opcion:
                 print("\n")
                 for i in range(ejercicios):
                     respuestas = {}
-                    reto = {}
+                    resto = {}
                     dividendo = random.randint(1, 11)
                     divisor = random.randint(1, 11)
                     print("Dividir", dividendo, "/", divisor)
@@ -456,7 +456,7 @@ while opcion:
                 print("\n")
                 for i in range(ejercicios):
                     respuestas = {}
-                    reto = {}
+                    resto = {}
                     dividendo = random.randint(1, 11)
                     divisor = random.randint(1, 11)
                     print("Dividir", dividendo, "/", divisor)
