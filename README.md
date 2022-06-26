@@ -1,10 +1,10 @@
-# menu matematico
+# menú matemático
 
 opciones de:
-  * Sumar 2 numeros
-  * Restar 2 numeros
-  * Multiplicar 2 numeros
-  * Dividir 2 numeros
+  * Sumar 2 números
+  * Restar 2 números
+  * Multiplicar 2 números
+  * Dividir 2 números
   * Salir
 
-en las cuales el usuario debe ingresar solo la respuesta, ya que el programa entregara los numeros aleatoriamente a realizar
+en las cuales el usuario debe ingresar solo la respuesta, ya que el programa entregara los números aleatoriamente a realizar
